@@ -24,7 +24,7 @@ const ProfileGalleryComponent = () => {
             </div>
             <div className="px-7">
               <p className="text-sm text-gray-300">
-                Hello! I'm Dave, your sales rep here from Salesforce. I've been
+                Hello! I&apos;m Dave, your sales rep here from Salesforce. I&apos;ve been
                 working at this awesome company for 3 years now.
               </p>
               <p className="text-sm text-gray-300 mt-2">
